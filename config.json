@@ -76,6 +76,10 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+     "bwzy": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源"
     }
   }
 }
